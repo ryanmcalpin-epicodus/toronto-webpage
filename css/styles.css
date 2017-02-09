@@ -2,6 +2,17 @@ li {
   list-style-type: none;
 }
 
+.jumbo-head{
+  position: relative;
+  background: url('../img/bg.jpg') no-repeat center center;
+  height: 350px;
+  width: 100%;
+}
+
+.packages{
+  text-align: center;
+}
+
 .price {
   font-size: 40px;
 }
